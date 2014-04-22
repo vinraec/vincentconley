@@ -54,3 +54,9 @@ docs/_build/
 
 # Settings File
 vincentconley/settings.py
+
+# Ignore Intellij
+.idea
+
+# Ignore Vagrant
+.vagrant
